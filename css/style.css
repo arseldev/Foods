@@ -1,0 +1,37 @@
+:root {
+  --primary: #f95e07;
+  --gray: #f5f5f6;
+  --neutral: white;
+}
+
+body {
+  background-color: var(--gray) !important;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.btn {
+  border-color: var(--primary) !important;
+  color: #333 !important;
+}
+
+.btn:hover {
+  background-color: var(--primary) !important;
+  color: white !important;
+}
+
+.btn-save {
+  background-color: #f95e07 !important;
+  color: white !important;
+}
+
+.button-added {
+  background-color: var(--primary) !important;
+  color: white !important;
+}
+
+.modal-content .modal-body {
+  background-color: var(--gray) !important;
+}
