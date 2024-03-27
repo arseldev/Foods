@@ -89,7 +89,8 @@ $selectedMenus = isset($_SESSION['selectedMenus']) ? $_SESSION['selectedMenus'] 
                                     <?php if (isset($selectedMenus)): ?>
                                         <?php foreach ($selectedMenus as $selectedMenu): ?>
                                             <div class="col p-2 rounded shadow-sm mb-2">
-                                                <div class="d-flex justify-content-between align-items-center gap-4 ">
+                                                <div
+                                                    class="d-flex justify-content-between align-items-center gap-4 flex-lg-row flex-column">
                                                     <div class="d-flex gap-2 align-items-center">
                                                         <div class="p-2 rounded"
                                                             style="border: 1px solid var(--primary); display: inline-block; width: 70px; height: 70px;">
