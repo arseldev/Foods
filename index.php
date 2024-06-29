@@ -142,7 +142,7 @@ $selectedMenus = isset($_SESSION['selectedMenus']) ? $_SESSION['selectedMenus'] 
             </a>
             <span class="mb-3 mb-md-0 text-muted">&copy;
                 <?= date('Y') ?> Food by <a href="https://michaelarselius.com/" target="_blank"
-                    style="text-decoration:none; color:#333; fw-semibold;">AccengggDev</a>
+                    style="text-decoration:none; color:#333; font-weight: 700;">AccengggDev</a>
             </span>
         </div>
 
