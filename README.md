@@ -16,7 +16,7 @@
   <p align="center">
     Website order makanan online.
     <br />
-    <a href="https://foods-arseldev.000webhostapp.com/"><strong>Explore the Website »</strong></a>
+    <a href="https://arseldev.000webhostapp.com/foods/"><strong>Explore the Website »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -31,7 +31,7 @@
 
 ## Tentang Foods
 
-[![Product Name Screen Shot][product-screenshot]](https://foods-arseldev.000webhostapp.com/)
+[![Product Name Screen Shot][product-screenshot]](https://arseldev.000webhostapp.com/foods/)
 
 Past Portfolio merupakan website sederhana yang menampilkan menu makanan dan dapat melakukan pemesanan makanan.
 
